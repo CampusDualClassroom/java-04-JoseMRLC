@@ -37,6 +37,7 @@ public class Exercise04 {
             factorial = factorial * i;
         }
         return factorial;
+
     }
 
     public static int recursiveFactorial(int num) {
